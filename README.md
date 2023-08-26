@@ -205,12 +205,5 @@ Use following paths
   <ul>
   <li> add more features </li>
   </ul>
- 
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
 
 
